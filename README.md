@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHANDANA </h1>
 <h3 align="center">💻  Full Stack python Developer | Always Learning 🚀</h3>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 ---
 
