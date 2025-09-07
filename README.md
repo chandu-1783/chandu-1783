@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CHANDANA </h1>
-<h3 align="center">💻 TRAINEE | Full Stack python Developer | Always Learning 🚀</h3>
+<h3 align="center">💻  Full Stack python Developer | Always Learning 🚀</h3>
 
 ---
 
@@ -23,13 +23,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)  
 
 ---
 
