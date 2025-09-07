@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=chandu-1783&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
@@ -48,10 +48,31 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandu-1783&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandu-1783&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandu-1783&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+---
 
 
 ## ✨ Fun Fact  
 ⚡ I love solving coding challenges, exploring new frameworks, and learning modern architectures!  
 
+---
+
+## 📚 Currently Learning
+- ⚡ Advanced Full Stack Development with React & Django  
+- 🤖 AI/ML models deployment and optimization  
 
