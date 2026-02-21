@@ -7,7 +7,7 @@
 <td>
 
 ## 🌟 About Me
-- 🔭 Currently pursuing a course at **Pentagon Space Pvt. Ltd.**  
+- 🔭 Completed pursuing a course at **Pentagon Space Pvt. Ltd.**  
 - 🌱 Specializing in **Python, MySQL & Full Stack Development**  
 - 🎯 Goal: Build impactful, scalable solutions with clean code  
 - 📫 Reach me at **chanduyurs.03@gmail.com**
